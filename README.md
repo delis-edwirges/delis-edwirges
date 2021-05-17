@@ -11,9 +11,8 @@ You can click the Preview link to take a look at your changes.
 <h1 style="color:blue;">- 👋 Hi,  I’m <strong>@delis-edwirges</h1></strong>
 <ul>- 👀 I’m interested in learning new things and start up my carrer! </ul>
 <ul>- 🌱 I’m currently learning more about Java, and HTML5 & CSS3 </ul>
-<ul>- 💞️ I’m looking to collaborate on </ul>
+<ul>- 💞️ I’m looking to collaborate with my classmates! </ul>
 
-<coloring>+ addition</coloring>
-- deletion
+
 </body>
 </html>
