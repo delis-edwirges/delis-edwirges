@@ -8,11 +8,19 @@ You can click the Preview link to take a look at your changes.
 <html>
 
 <body>
-<h1 style="color:blue;"> 👋 Hi,  I’m <strong>@delis-edwirges</h1></strong>
-<ul>- 👀 I’m interested in learning new things and start up my carrer! </ul>
-<ul>- 🌱 I’m currently learning more about Java, and HTML5 & CSS3 </ul>
-<ul>- 💞️ I’m looking to collaborate with my classmates! </ul>
+<strong><h1 style="color:blue;"> 👋 Hi,  I’m <strong>@delis-edwirges(❁´◡`❁)✨✨</h1></strong>
+ <section>
+ <ul>- 👀 Interested in doing new things and start up my carrer! </ul>
+ <ul>- 🌱 Currently learning more about Java, HTML5 & CSS3 </ul>
+ <ul>- 💞️ And looking to collaborate with my classmates! </ul>
+  </section>
+  <article>
+<h3>More about myself </h3>
+<p align="left;"> I like cats, games, comics and drawings & illustrations. 
+Currently a design and Java student! But I guess you already can call me a designer! xD
+My friends usually tells that I'm a caring and extrovert person, and I do my best to keep up their words :)</p>
+           </article>
 
-
+<h5>🍒 It's not about being better than the others, but being better than my old selft.🍒 </h5>
 </body>
 </html>
